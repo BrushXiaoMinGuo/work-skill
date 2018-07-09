@@ -3,7 +3,7 @@
 UML图: 类图
 
 ## 成员对象
-
+[类图](https://github.com/BrushXiaoMinGuo/work-skill/blob/master/image/uml_class.jpg)
 
 ## 关系分类：
 #### 继承关系

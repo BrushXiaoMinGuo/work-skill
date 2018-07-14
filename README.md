@@ -5,3 +5,4 @@
 [文档写作](https://github.com/BrushXiaoMinGuo/work-skill/blob/master/%E6%96%87%E6%A1%A3%E5%86%99%E4%BD%9C.md)     
 [UML类图](https://github.com/BrushXiaoMinGuo/work-skill/blob/master/UML.md)     
 [git使用](https://github.com/BrushXiaoMinGuo/work-skill/blob/master/git_%E4%BD%BF%E7%94%A8.md)
+[与人沟通](https://github.com/BrushXiaoMinGuo/work-skill/blob/master/%E4%B8%8E%E4%BA%BA%E6%B2%9F%E9%80%9A.md)
